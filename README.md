@@ -1,5 +1,4 @@
-
-
+![image](https://github.com/user-attachments/assets/a28cccce-ee27-4f17-8259-e8fb4b4bb85e)
 
 # Qué es?
 Proyecto final de la materia de sistemas operativos, pequeño script en python para ejecutar comandos básicos de linux y automatizar tareas comunes.
